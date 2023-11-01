@@ -1,0 +1,1 @@
+INSERT INTO _USER (ID, FIRST_NAME, LAST_NAME, EMAIL, PASSWORD, ROLE) VALUES (1,'Andres','Soto','andres@gmail.com','$2a$10$9kIrM/pkKfpjJJXvdrdbneZZasGMbHMsneawDXUsNRPzB5upZLwAq','USER')
